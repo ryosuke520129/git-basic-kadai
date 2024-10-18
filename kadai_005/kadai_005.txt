@@ -21,3 +21,16 @@ C:\Users\nnsaitory\Documents\data_science\git_challenge>git add hello_world.txt
 C:\Users\nnsaitory\Documents\data_science\git_challenge>git commit -m "日本語訳を追記"
 [main b1baaf4] 日本語訳を追記
  1 file changed, 1 insertion(+)
+
+C:\Users\nnsaitory\Documents\data_science\git_challenge>git log
+commit b1baaf483d5ad96c7ae06794c2c4d59d46c254b3 (HEAD -> main)
+Author: ryosuke520129 <3110r91905@gmail.com>
+Date:   Fri Oct 18 18:47:31 2024 +0900
+
+    日本語訳を追記
+
+commit a0ace2398c71d473a335490c5b6922be79073cc8
+Author: ryosuke520129 <3110r91905@gmail.com>
+Date:   Fri Oct 18 18:46:34 2024 +0900
+
+    hello_world.txtを追加
