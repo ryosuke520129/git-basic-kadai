@@ -1,0 +1,23 @@
+C:\Users\nnsaitory\Documents\data_science>mkdir git_challenge
+
+C:\Users\nnsaitory\Documents\data_science>cd git_challenge
+
+C:\Users\nnsaitory\Documents\data_science\git_challenge>git init
+Initialized empty Git repository in C:/Users/nnsaitory/Documents/data_science/git_challenge/.git/
+
+C:\Users\nnsaitory\Documents\data_science\git_challenge>type nul > hello_world.txt
+
+C:\Users\nnsaitory\Documents\data_science\git_challenge>echo Hello, world! > hello_world.txt
+
+C:\Users\nnsaitory\Documents\data_science\git_challenge>git add hello_world.txt
+
+C:\Users\nnsaitory\Documents\data_science\git_challenge>git commit -m "hello_world.txtを追加"        
+[main (root-commit) a0ace23] hello_world.txtを追加      
+ 1 file changed, 1 insertion(+)
+ create mode 100644 hello_world.txt
+
+C:\Users\nnsaitory\Documents\data_science\git_challenge>git add hello_world.txt
+
+C:\Users\nnsaitory\Documents\data_science\git_challenge>git commit -m "日本語訳を追記"
+[main b1baaf4] 日本語訳を追記
+ 1 file changed, 1 insertion(+)
